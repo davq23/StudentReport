@@ -1,0 +1,15 @@
+ID.   NAME                           LAST NAME                      GRADE
+---------------------------------------------------------------------------
+00003 ELMAN                          OJO                              0.220
+00005 ROBERTO                        CIENFUEGOS                       5.330
+00010 ARMANDO                        REVEROL                         10.550
+00009 MORROCOY                       PLAZA                           11.500
+00012 ROBERT                         MATA                            15.000
+00055 COBOL                          BOY                             15.560
+00001 JULIO                          MORALES                         15.670
+00004 LAURA                          LOZADA                          18.780
+00009 CARLOS                         CUMBYARAN                       19.000
+00002 DAVID                          QUINTERO                        20.000
+00036 MARIO                          VROS                            20.000
+---------------------------------------------------------------------------
+                                     AVERAGE GRADE OF ALL STUDENTS   13.783
